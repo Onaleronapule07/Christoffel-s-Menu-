@@ -12,7 +12,7 @@ Christoffel's Menu App is a React Native mobile app for a chef to manage a resta
 * A menu statistics screen that displays the total items, average price and number of items per course
 * And a success and error messages for all actions
 
-# Link for GitHub:
+# Link for GitHub:https://github.com/Onaleronapule07/Christoffel-s-Menu-/tree/main
 
 # Changes since part 2(Change Log)
 # New functionality
